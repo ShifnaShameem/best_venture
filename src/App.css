@@ -1,0 +1,46 @@
+.a1{
+    background-image: url('./assets/auth.png');
+}
+
+.b1{
+    background-image: url('./assets/bg.jpg');
+    background-size: cover;
+}
+.c1{
+    font-family: "Dancing Script", cursive;
+}
+.d1{
+    margin-left: -15px;
+}
+.e1{
+    margin-left: 200px;
+}
+.f1{
+    width: 500px;
+}
+.y1{
+    border: 1px solid black;
+}
+
+.x1{
+    width: 300px;
+}
+
+@media(max-width:500px){
+
+    .d1{
+        margin-left: -5px;
+    }
+    .e1{
+        margin-left: 27px;
+    }
+    .f1{
+        width: 300px;
+    }
+    .x1{
+        width: -2px;
+    }
+    
+    
+    
+    }
